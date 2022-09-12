@@ -1,7 +1,7 @@
 # Ploigos
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-![Community](https://img.shields.io/badge/patterns-community-brightgreen)
+[![Community](https://img.shields.io/badge/patterns-community-brightgreen)](https://hybrid-cloud-patterns.io)
 
 ## Start Here
 
